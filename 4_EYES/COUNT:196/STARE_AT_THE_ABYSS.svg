@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1700px" height="1700px" viewBox="0 0 1700 1700" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>4_EYES/COUNT:196/STARE_AT_THE_ABYSS</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="84.3746031%" id="linearGradient-1">
+            <stop stop-color="#272F42" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="4_EYES/COUNT:196/STARE_AT_THE_ABYSS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(517.000000, 803.000000)" fill="#FFFFFF" stroke="#000000" stroke-width="10">
+            <circle id="Right-Eye" cx="534" cy="121" r="116"></circle>
+            <circle id="Left-Eye" cx="121" cy="121" r="116"></circle>
+        </g>
+        <circle id="Oval" stroke="#000000" stroke-width="10" fill="url(#linearGradient-1)" cx="640" cy="924" r="56"></circle>
+        <circle id="Oval" fill="#FFFFFF" cx="659" cy="912" r="22"></circle>
+        <circle id="Oval" stroke="#000000" stroke-width="10" fill="url(#linearGradient-1)" cx="1053" cy="924" r="56"></circle>
+        <circle id="Oval" fill="#FFFFFF" cx="1072" cy="912" r="22"></circle>
+    </g>
+</svg>

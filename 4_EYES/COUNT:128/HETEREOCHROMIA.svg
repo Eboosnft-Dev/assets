@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1700px" height="1700px" viewBox="0 0 1700 1700" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>4_EYES/COUNT:128/HETEREOCHROMIA</title>
+    <desc>Created with Sketch.</desc>
+    <g id="4_EYES/COUNT:128/HETEREOCHROMIA" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(517.000000, 803.000000)" stroke="#000000" stroke-width="10">
+            <circle id="Right-Eye" fill="#FFFFFF" cx="534" cy="121" r="116"></circle>
+            <ellipse id="Right-Pupil" fill="#6FC6D9" cx="590.459824" cy="120.70954" rx="23.5" ry="21"></ellipse>
+            <circle id="Left-Eye" fill="#FFFFFF" cx="121" cy="121" r="116"></circle>
+            <ellipse id="Left-Pupil" fill="#E5E16D" cx="177.460168" cy="120.70954" rx="23.5" ry="21"></ellipse>
+            <path d="M236.894182,5 L5.10581816,5 C7.72435068,66.7455771 58.6101819,116 121,116 C183.389818,116 234.275649,66.7455771 236.89418,5.00004517 Z" id="Combined-Shape" fill="#A38E71" transform="translate(121.000000, 60.500000) scale(1, -1) translate(-121.000000, -60.500000) "></path>
+            <path d="M649.894182,5 L418.105818,5 C420.724351,66.7455771 471.610182,116 534,116 C596.389818,116 647.275649,66.7455771 649.89418,5.00004517 Z" id="Combined-Shape-Copy" fill="#A38E71" transform="translate(534.000000, 60.500000) scale(1, -1) translate(-534.000000, -60.500000) "></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1700px" height="1700px" viewBox="0 0 1700 1700" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>4_EYES/COUNT:456/CRAZY</title>
+    <desc>Created with Sketch.</desc>
+    <g id="4_EYES/COUNT:456/CRAZY" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M937.495708,974.447141 L1149.88231,963.373567 C1148.59022,982.10999 1146.21247,996.094287 1142.74905,1005.32646 C1122.47869,1059.3595 1083.00041,1089.19435 1035.93915,1083.97018 C976.816437,1077.40709 944.001958,1040.89941 937.495708,974.447141 Z" id="Path-2418" fill-opacity="0.2" fill="#000000" transform="translate(1043.689007, 1023.966079) scale(-1, 1) translate(-1043.689007, -1023.966079) "></path>
+        <path d="M534.495708,974.447141 L746.882306,963.373567 C745.590223,982.10999 743.21247,996.094287 739.749045,1005.32646 C719.478694,1059.3595 680.00041,1089.19435 632.939146,1083.97018 C573.816437,1077.40709 541.001958,1040.89941 534.495708,974.447141 Z" id="Path-2418-Copy" fill-opacity="0.2" fill="#000000"></path>
+        <circle id="Right-Eye" stroke="#000000" stroke-width="10" fill="#FFFFFF" cx="1051" cy="924" r="116"></circle>
+        <circle id="Right-Pupil" stroke="#000000" stroke-width="10" fill="#E48F2F" cx="1089" cy="895" r="24"></circle>
+        <circle id="Left-Eye" stroke="#000000" stroke-width="10" fill="#FFFFFF" cx="638" cy="924" r="116"></circle>
+        <ellipse id="Left-Pupil" stroke="#000000" stroke-width="10" fill="#E48F2F" cx="584.5" cy="907" rx="14" ry="12"></ellipse>
+        <path d="M1139.83513,999.75371 C1115.48945,981.076124 1083.37869,967.834384 1043.50285,960.028487 C1003.62701,952.222591 969.545182,952.222591 941.257366,960.028487 C955.209182,1002.86227 984.79006,1029.12301 1030,1038.8107 C1075.20994,1048.4984 1111.82165,1035.4794 1139.83513,999.75371 Z" id="Path-965" stroke="#000000" stroke-width="10" fill="#A38E71"></path>
+        <g id="Group" transform="translate(638.882306, 1023.873567) scale(-1, 1) translate(-638.882306, -1023.873567) translate(530.882306, 963.373567)" stroke="#000000" stroke-linecap="round" stroke-width="8">
+            <path d="M215.98027,6.18291 C200.387113,58.7531625 169.530463,87.3373204 123.410318,91.9353838" id="Path-983"></path>
+            <path d="M0,0 C-0.00378889295,35.7193089 11.8687758,64.7485711 35.6176942,87.0877867 C59.3666125,109.427002 86.9641538,120.59661 118.410318,120.59661" id="Path-999" stroke-linejoin="round"></path>
+        </g>
+        <g id="Group-2" transform="translate(1048.500000, 1023.500000) scale(-1, 1) translate(-1048.500000, -1023.500000) translate(942.000000, 963.000000)" stroke="#000000" stroke-linecap="round" stroke-width="8">
+            <path d="M92.5699515,14 C76.9767951,66.5702525 46.1201446,95.1544104 0,99.7524738" id="Path-983-Copy" transform="translate(46.284976, 56.876237) scale(-1, 1) translate(-46.284976, -56.876237) "></path>
+            <path d="M94,0 C93.9962111,35.7193089 105.868776,64.7485711 129.617694,87.0877867 C153.366612,109.427002 180.964154,120.59661 212.410318,120.59661" id="Path-999-Copy" stroke-linejoin="round" transform="translate(153.205159, 60.298305) scale(-1, 1) translate(-153.205159, -60.298305) "></path>
+        </g>
+    </g>
+</svg>

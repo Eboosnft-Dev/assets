@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1700px" height="1700px" viewBox="0 0 1700 1700" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>4_EYES/COUNT:280/ADMIN</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <path d="M521,961 L759,961 C742.666667,1020.08912 703.166667,1049.63368 640.5,1049.63368 C577.833333,1049.63368 538,1020.08912 521,961 Z" id="path-2"></path>
+        <path d="M931,958 L1169,958 C1152.66667,1017.08912 1113.16667,1046.63368 1050.5,1046.63368 C987.833333,1046.63368 948,1017.08912 931,958 Z" id="path-3"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="4_EYES/COUNT:280/ADMIN" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(517.000000, 803.000000)" stroke="#000000" stroke-width="10">
+            <circle id="Right-Eye" fill="#FFFFFF" cx="534" cy="121" r="116"></circle>
+            <ellipse id="Right-Pupil" fill="#E48F2F" cx="590.459824" cy="120.70954" rx="23.5" ry="21"></ellipse>
+            <circle id="Left-Eye" fill="#FFFFFF" cx="121" cy="121" r="116"></circle>
+            <ellipse id="Left-Pupil" fill="#E48F2F" cx="177.460168" cy="120.70954" rx="23.5" ry="21"></ellipse>
+            <path d="M236.894182,5 L5.10581816,5 C7.72435068,66.7455771 58.6101819,116 121,116 C183.389818,116 234.275649,66.7455771 236.89418,5.00004517 Z" id="Combined-Shape" fill="#A38E71" transform="translate(121.000000, 60.500000) scale(1, -1) translate(-121.000000, -60.500000) "></path>
+            <path d="M649.894182,5 L418.105818,5 C420.724351,66.7455771 471.610182,116 534,116 C596.389818,116 647.275649,66.7455771 649.89418,5.00004517 Z" id="Combined-Shape-Copy" fill="#A38E71" transform="translate(534.000000, 60.500000) scale(1, -1) translate(-534.000000, -60.500000) "></path>
+        </g>
+        <g id="Path-1261" stroke-linejoin="round">
+            <use fill="#D3EBF1" fill-rule="evenodd" xlink:href="#path-2"></use>
+            <use fill="url(#linearGradient-1)" fill-rule="evenodd" style="mix-blend-mode: soft-light;" xlink:href="#path-2"></use>
+            <use stroke="#000000" stroke-width="10" xlink:href="#path-2"></use>
+        </g>
+        <g id="Path-1261-Copy" stroke-linejoin="round">
+            <use fill="#D3EBF1" fill-rule="evenodd" xlink:href="#path-3"></use>
+            <use fill="url(#linearGradient-1)" fill-rule="evenodd" style="mix-blend-mode: soft-light;" xlink:href="#path-3"></use>
+            <use stroke="#000000" stroke-width="10" xlink:href="#path-3"></use>
+        </g>
+        <path d="M759,963 C781.445291,933.666667 809.502028,919 843.170213,919 C876.838397,919 906.114993,932.333333 931,959" id="Path-1397" stroke="#000000" stroke-width="10"></path>
+        <path d="M616,961 L580.660769,1035.27389 C596.639117,1044.84708 612.617465,1049.63368 628.595813,1049.63368 C644.574161,1049.63368 656.803596,1048.63368 665.284117,1046.63368 L709.178499,961 L616,961 Z" id="Path-1869" fill="url(#linearGradient-4)"></path>
+        <path d="M1022.33923,962 L987,1036.27389 C1002.97835,1045.84708 1018.9567,1050.63368 1034.93504,1050.63368 C1050.91339,1050.63368 1063.14283,1049.63368 1071.62335,1047.63368 L1115.51773,962 L1022.33923,962 Z" id="Path-1869-Copy" fill="url(#linearGradient-4)"></path>
+        <path d="M521,961 L759,961 C742.666667,1020.08912 703.166667,1049.63368 640.5,1049.63368 C577.833333,1049.63368 538,1020.08912 521,961 Z" id="Path-1261" stroke="#000000" stroke-width="10" stroke-linejoin="round"></path>
+        <path d="M931,958 L1169,958 C1152.66667,1017.08912 1113.16667,1046.63368 1050.5,1046.63368 C987.833333,1046.63368 948,1017.08912 931,958 Z" id="Path-1261-Copy" stroke="#000000" stroke-width="10" stroke-linejoin="round"></path>
+    </g>
+</svg>
